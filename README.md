@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Dipan Roy Cover](https://raw.githubusercontent.com/dipan29/dipan29/master/github-cover.png)](https://www.DipanRoy.com)
+<p align="center">
 
 <!--
 **dipan29/dipan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
