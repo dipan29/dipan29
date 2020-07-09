@@ -1,5 +1,7 @@
 [![Dipan Roy Cover](https://raw.githubusercontent.com/dipan29/dipan29/master/github-cover.png)](https://www.DipanRoy.com)
 <p align="center">
+  <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://twitter.com/DipanR29"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dipanr29?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@DipanR29"></a><br/><br/>  
+</p>
 
 <!--
 **dipan29/dipan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
