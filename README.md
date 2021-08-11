@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Automation and Management Products
 - 🌱 I’m currently learning MEAN Stack Development
 - 💬 Ask me about Web, IoT and Space 🌌
-- 📫 Reach me at - dipanroy@mindwebs.org
+- 📫 Reach me at - hi@dipanroy.com
 - ⚡ Let's Build something out of LEGO
 
 <br/>
