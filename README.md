@@ -6,8 +6,8 @@
 <p align="center">I am an EC Engineer with a keen interest in Robotics and Web Development. Currently working as SDE-I with <a href="https://artelus.com/" target="_blank">Artificial Learning Systems (I) Pvt. Ltd</a>. I have worked on various full stack web products and have made some IoT Based Automation systems. I am mad about Cosmology, so if you are one of them, I will buy you a Coffee. Else if you loved my work, you may buy me one!</p>
 <br/>
 
-- 🔭 I’m currently working on Automation and Management Products
-- 🌱 I’m currently learning MEAN Stack Development
+- 🔭 I’m currently working on Robotic Automation and Web Projects
+- 🌱 I’m currently learning Advanced System Design
 - 💬 Ask me about Web, IoT and Space 🌌
 - 📫 Reach me at - hi@dipanroy.com
 - ⚡ Let's Build something out of LEGO
