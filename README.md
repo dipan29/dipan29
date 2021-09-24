@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Robotic Automation and Web Projects
 - 🌱 I’m currently learning Advanced System Design
 - 💬 Ask me about Web, IoT and Space 🌌
-- 📫 Reach me at - hi@dipanroy.com
+- 📫 Reach out me at - hi@dipanroy.com
 - ⚡ Let's Build something out of LEGO
 
 <br/>
