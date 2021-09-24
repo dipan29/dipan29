@@ -12,6 +12,20 @@
 - 📫 Reach out me at - hi@dipanroy.com
 - ⚡ Let's Build something out of LEGO
 
+[![Twitter: DipanR29](https://img.shields.io/twitter/follow/DipanR29?style=social)](https://twitter.com/dipanr29)
+[![Linkedin: Dipan29](https://img.shields.io/badge/-Dipan29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipan29/)](https://www.linkedin.com/in/dipan29/)
+[![GitHub dipan29](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-DipanRoy.com-2648ff?style=flat-square&color=9cf&logo=google-chrome)](https://DipanRoy.com/)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
 <h3 align="center">Having a Tough Day 😢? Here's a <a href="https://dipan29.github.io/Random-Advice/">Tip for You ⭐</a></h3>
 <br/>
 
