@@ -12,6 +12,7 @@
 - 📫 Reach out me at - hi@dipanroy.com
 - ⚡ Let's Build something out of LEGO
 
+[![Views: Dipan29]<img src="https://komarev.com/ghpvc/?username=dipan29&label=Views&color=blue&style=plastic" alt="dipan29" />
 [![Twitter: DipanR29](https://img.shields.io/twitter/follow/DipanR29?style=social)](https://twitter.com/dipanr29)
 [![Linkedin: Dipan29](https://img.shields.io/badge/-Dipan29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipan29/)](https://www.linkedin.com/in/dipan29/)
 [![GitHub dipan29](https://img.shields.io/github/followers/dipan29?label=follow&style=social)](https://github.com/dipan29)
