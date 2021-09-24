@@ -17,7 +17,7 @@
 [![Twitter: DipanR29](https://img.shields.io/twitter/follow/DipanR29?style=social)](https://twitter.com/dipanr29)
 [![Linkedin: Dipan29](https://img.shields.io/badge/-Dipan29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipan29/)](https://www.linkedin.com/in/dipan29/)
 [![GitHub dipan29](https://img.shields.io/github/followers/dipan29?label=follow&style=social)](https://github.com/dipan29)
-[![website](https://img.shields.io/badge/PortfolioWebsite-DipanRoy.com-2648ff?style=flat&color=9cf&logo=google-chrome)](https://DipanRoy.com/)
+[![website](https://img.shields.io/badge/Website-DipanRoy.com-2648ff?style=flat&color=9cf&logo=google-chrome)](https://DipanRoy.com/)
 
 **Languages and Tools:**  
 
