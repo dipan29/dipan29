@@ -32,5 +32,3 @@
 <br/>
 
 ![Dipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipan29&show_icons=true&count_private=true&theme=default) ![Dipan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipan29&layout=compact&langs_count=8&hide=css,processing,objective-c)
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipan29" alt="Dipan29 GitHub Streaks"/></p>
